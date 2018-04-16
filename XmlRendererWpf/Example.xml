@@ -1,0 +1,22 @@
+﻿<Screen>
+  <Row>
+    <Column>
+      <Textbox name="txtbox1" label="Textbox 1" width="200" height="20" top="5"  left="5" length="50"/>
+    </Column>
+  </Row>
+  <Row>
+    <Column>
+      <Numericbox name="numericbox1" label="Numeric 2" width="200" height="20" top="55" left="5" length="50"/>
+    </Column>
+  </Row>
+  <Row>
+    <Column>
+      <LabelElement name="lblSmall" label="Small Label" type="small" width="20" height="20" top="100" left="5"/>
+    </Column>
+  </Row>
+  <Row>
+    <Column>
+      <Button name="control_13" label="Button" width="150" height="20" top="135" left="5"/>
+    </Column>
+  </Row>
+</Screen>

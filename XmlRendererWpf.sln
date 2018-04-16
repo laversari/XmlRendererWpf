@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlRendererWpf", "XmlRendererWpf\XmlRendererWpf.csproj", "{FCC646A7-B77A-4CE2-95C2-C9C25429760E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC646A7-B77A-4CE2-95C2-C9C25429760E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC646A7-B77A-4CE2-95C2-C9C25429760E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC646A7-B77A-4CE2-95C2-C9C25429760E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC646A7-B77A-4CE2-95C2-C9C25429760E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DA40158-ABDB-4F18-928C-EE4E093ED6F0}
+	EndGlobalSection
+EndGlobal
